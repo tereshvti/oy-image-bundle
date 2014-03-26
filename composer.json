@@ -5,7 +5,7 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "git@github.com/tereshvti/oy-image-bundle.git "
+            "url": "https://github.com/tereshvti/oy-image-bundle.git "
         }
     ],
     "autoload": {
